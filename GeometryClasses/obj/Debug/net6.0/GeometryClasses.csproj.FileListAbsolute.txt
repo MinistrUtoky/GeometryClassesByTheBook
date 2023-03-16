@@ -1,0 +1,60 @@
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.exe
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.deps.json
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.runtimeconfig.json
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.dll
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.pdb
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.csproj.AssemblyReference.cache
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.AssemblyInfoInputs.cache
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.AssemblyInfo.cs
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.dll
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\obj\Debug\net6.0\refint\GeometryClasses.dll
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.pdb
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.genruntimeconfig.cache
+C:\Users\Viqtop\source\repos\GeometryClasses\GeometryClasses\obj\Debug\net6.0\ref\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.csproj.AssemblyReference.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.AssemblyInfoInputs.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.AssemblyInfo.cs
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\obj\Debug\net6.0\refint\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.pdb
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.exe
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.deps.json
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.runtimeconfig.json
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.pdb
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.genruntimeconfig.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses1\GeometryClasses\GeometryClasses\obj\Debug\net6.0\ref\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.exe
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.deps.json
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.runtimeconfig.json
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.pdb
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.csproj.AssemblyReference.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.AssemblyInfoInputs.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.AssemblyInfo.cs
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\obj\Debug\net6.0\refint\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.pdb
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.genruntimeconfig.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses2 (2)\GeometryClasses\GeometryClasses\obj\Debug\net6.0\ref\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.csproj.AssemblyReference.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.AssemblyInfoInputs.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.AssemblyInfo.cs
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.csproj.CoreCompileInputs.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\obj\Debug\net6.0\refint\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.pdb
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.exe
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.deps.json
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.runtimeconfig.json
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.dll
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\bin\Debug\net6.0\GeometryClasses.pdb
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\obj\Debug\net6.0\GeometryClasses.genruntimeconfig.cache
+C:\Users\Viqtop\Downloads\Telegram Desktop\GeometryClasses\GeometryClasses\GeometryClasses\obj\Debug\net6.0\ref\GeometryClasses.dll
