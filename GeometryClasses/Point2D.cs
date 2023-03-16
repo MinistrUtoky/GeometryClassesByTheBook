@@ -12,13 +12,14 @@ namespace GeometryClasses
 
         public Point2D(double[] x): base(2,x) { }
 
-        public Point2D rot(Point2D p, double phi) {
-            double pX = p.x[0], pY = p.x[1];
-            p.x[0] = pX * Math.Cos(phi) - pY * Math.Sin(phi);
-            p.x[1] = pX * Math.Sin(phi) + pY * Math.Cos(phi);
-            return p;
-        }
+        public static Point2D rot(Point2D p, double phi) => new Point2D(new double[2] { p.x[0] * Math.Cos(phi) - p.x[1] * Math.Sin(phi), p.x[0] * Math.Sin(phi) + p.x[1] * Math.Cos(phi)});
 
-        public Point2D rot(double phi) => rot(this, phi);
+        public Point2D rot(double phi)
+        {
+            Point2D newPoint = rot(this, phi); 
+            x = newPoint.x;
+            dim = newPoint.dim;
+            return newPoint;
+        }
     }
 }

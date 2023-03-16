@@ -41,7 +41,12 @@ namespace GeometryClasses
             return new Point(newDim, newX);
         }
 
-        public Point add(Point b) => add(this, b);
+        public Point add(Point b) { 
+            Point newPoint = add(this, b);
+            x = newPoint.x;
+            dim = newPoint.dim;
+            return newPoint;
+        }
 
         // a-b
         public static Point sub(Point a, Point b)
@@ -56,7 +61,13 @@ namespace GeometryClasses
             return new Point(newDim, newX);
         }
 
-        public Point sub(Point b) => sub(this, b);
+        public Point sub(Point b)
+        {            
+            Point newPoint = sub(this, b);
+            x = newPoint.x;
+            dim = newPoint.dim;
+            return newPoint;
+        }
 
         public static Point mult(Point a, double r)
         {
@@ -65,7 +76,13 @@ namespace GeometryClasses
             return new Point(a.dim, newX);
         }
 
-        public Point mult(double r) => mult(this, r);
+        public Point mult(double r)
+        {
+            Point newPoint = mult(this, r);
+            x = newPoint.x;
+            dim = newPoint.dim;
+            return newPoint;
+        }
 
         public static double mult(Point a, Point b) {
             double result = 0;
@@ -86,7 +103,13 @@ namespace GeometryClasses
             return new Point(a.dim, newX);
         }
 
-        public Point symAxis(int i) => symAxis(this, i);
+        public Point symAxis(int i)
+        {
+            Point newPoint = symAxis(this, i);
+            x = newPoint.x;
+            dim = newPoint.dim;
+            return newPoint;
+        }
 
         public String toString() {
             StringBuilder sb = new StringBuilder();

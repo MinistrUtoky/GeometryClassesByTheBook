@@ -127,8 +127,18 @@ for (int i = 0; i < numberOfShapes; i++)
         movementVector[1] = Convert.ToDouble(Console.ReadLine());
         shape.shift(new Point2D(movementVector));
     }
-    else if (movementType == "rot") { }
-    else if (movementType == "symaxis") { }
+    else if (movementType == "rot")
+    {
+        Console.WriteLine("Rotation angle (counterclockwise): ");
+        double angle = Convert.ToDouble(Console.ReadLine());
+        shape.rot(angle);
+    }
+    else if (movementType == "symaxis")
+    {
+        Console.WriteLine("Axis index: ");
+        int axisOfSymmetryIndex = Convert.ToInt32(Console.ReadLine());
+        shape.symAxis(axisOfSymmetryIndex);
+    }
     else throw new Exception("Such movement is not applicable");
     Console.WriteLine("Movement parameters: ");
     Console.WriteLine("Does the shifted shape cross figure with the same index?");
