@@ -37,7 +37,7 @@ namespace GeometryClasses
         
         public IShape shift(Point2D a) { for (int i = 0; i < n; i++) p[i].add(a); return this; }
         public IShape rot(double phi) { for (int i = 0; i < n; i++) p[i].rot(phi); return this; }
-        public IShape symAxis(int i) { for (int j = 0; j < n; j++) p[i].symAxis(i); return this; }
+        public IShape symAxis(int i) { for (int j = 0; j < n; j++) p[j].symAxis(i); return this; }
         public bool cross(IShape i)
         {
             Point2D prev = p[0];

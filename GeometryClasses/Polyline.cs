@@ -36,7 +36,7 @@ namespace GeometryClasses
         }
         public override String toString() { 
             StringBuilder sb = new StringBuilder(); sb.Append("Size: " + n + "\nPoints: [ ");
-            foreach (Point2D e in p) sb.Append(e + " ");
+            foreach (Point2D e in p) sb.Append(e.toString() + " ");
             sb.Append(" ]");
             return sb.ToString();
         }

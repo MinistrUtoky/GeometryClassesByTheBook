@@ -141,6 +141,7 @@ for (int i = 0; i < numberOfShapes; i++)
     }
     else throw new Exception("Such movement is not applicable");
     Console.WriteLine("Movement parameters: ");
+    Console.WriteLine(shape.toString());
     Console.WriteLine("Does the shifted shape cross figure with the same index?");
     if (shape.cross(figures[i])) Console.WriteLine("YES");
     else Console.WriteLine("NO");

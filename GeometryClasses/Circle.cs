@@ -23,7 +23,8 @@ namespace GeometryClasses
         public double length() => 2 * Math.PI * r;
         public IShape shift(Point2D a)
         {
-            this.p = a.add(p) as Point2D;
+            Point newP = Point.add(a, p);
+            p = new Point2D(newP.getX());
             return this;
         }
         public IShape rot(double phi) => this;
@@ -33,7 +34,16 @@ namespace GeometryClasses
             p.symAxis(i); return this;
         }
 
-        public  bool cross(IShape i) => i.cross(this);
+        public bool cross(IShape i)
+        {
+            if (i.GetType() == typeof(Circle))
+            {
+                if (Point2D.sub(getP(), (i as Circle).getP()).abs() <= getR() + (i as Circle).getR())
+                    return true;
+                else return false;
+            }
+            else return i.cross(this);            
+        }
         public String toString() => "Center: " + p.toString()    + ", Radius: " + r;
     }
 }
